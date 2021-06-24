@@ -44,3 +44,4 @@ if __name__ == '__main__':
     par_mult(A, B) # Ejecuto multiplicacion paralela
     finP = time.time()
     print('\n\nMatriz  A y B se han multiplicado con exito en SECUENCIAL ha tardado ', finS-inicioS, ' y en PARALELO ', finP-inicioP)
+    #INCOMPLETO
